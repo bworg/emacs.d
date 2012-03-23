@@ -1,0 +1,3 @@
+common/version.lo: common/version.cpp gen/settings.h
+
+gen/settings.h:
